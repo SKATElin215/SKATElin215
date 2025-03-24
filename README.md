@@ -3,7 +3,7 @@
 ## About me
 I'm Caitlin, a rehabilitation scientist studying walking post-stroke
 
-- 🌱 I’m currently learning the basics of Git and GitHub
+- 🌷 I think I've learned just enough about Git and GitHub to be dangerous 😈
 - 😄 Pronouns: she/her/hers
 - 📫 How to reach me: cbanks@udel.edu
 - 📲 https://x.com/biomch_lbanks
